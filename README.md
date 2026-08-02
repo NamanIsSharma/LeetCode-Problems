@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Array
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+## Sorting
+|  |
+| ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 <!---LeetCode Topics End-->
