@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Bit Manipulation
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Memoization
 |  |
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Number Theory
 |  |
@@ -45,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
