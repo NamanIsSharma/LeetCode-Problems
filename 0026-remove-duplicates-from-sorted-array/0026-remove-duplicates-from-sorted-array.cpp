@@ -4,7 +4,7 @@ public:
         int n = nums.size();
         int i = 0;
         for(int j=0; j<n; j++){
-            if(nums[j] != nums[i]){
+            if(nums[j] != nums[i]){   // # two-pointer approach
                 nums[i+1] = nums[j];
                 i++;
             }
