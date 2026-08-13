@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1929-concatenation-of-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 ## Sorting
 |  |
 | ------- |
@@ -97,4 +98,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0011-container-with-most-water) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
