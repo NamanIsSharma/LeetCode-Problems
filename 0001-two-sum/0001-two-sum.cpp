@@ -1,5 +1,5 @@
 class Solution {                  /// marked for review to understand map//////
-public:
+public:                         // hasmap revision is must
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> mp;
 
