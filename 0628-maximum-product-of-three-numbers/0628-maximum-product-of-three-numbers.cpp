@@ -8,5 +8,6 @@ public:
         int case2 = nums[0]*nums[1]*nums[n-1]; //case for negative elements in array
 
         return max(case1, case2);
+        // although we can directly return the cases without taking case valiable, but it just for simplicity.
     }
 };
