@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [3110-score-of-a-string](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3110-score-of-a-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
