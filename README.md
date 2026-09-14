@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2235-add-two-integers) |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
