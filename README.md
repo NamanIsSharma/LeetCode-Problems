@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [2235-add-two-integers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2235-add-two-integers) |
+| [2396-strictly-palindromic-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
+| [2396-strictly-palindromic-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0189-rotate-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [2396-strictly-palindromic-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
