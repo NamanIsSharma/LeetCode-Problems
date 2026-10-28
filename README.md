@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -51,11 +52,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 | [2396-strictly-palindromic-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
 | [1025-divisor-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1025-divisor-game) |
 ## Number Theory
@@ -169,4 +172,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
