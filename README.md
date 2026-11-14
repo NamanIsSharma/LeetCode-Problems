@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
 | [2413-smallest-even-multiple](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
@@ -191,4 +194,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0292-nim-game) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
