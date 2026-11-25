@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0877-stone-game) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Divide and Conquer
 |  |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [2396-strictly-palindromic-number](https://github.com/NamanIsSharma/LeetCode-Problems/tree/master/2396-strictly-palindromic-number) |
 ## Hash Table
 |  |
