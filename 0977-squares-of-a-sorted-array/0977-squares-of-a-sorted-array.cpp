@@ -5,7 +5,7 @@ public:
         vector<int> ans(n); //created an vector to store output
         int i = 0, j = n-1, k = n-1; // i at begin, j at end, k at end to store squared values
         
-        for(int x=0; x<n; x++){
+        for(int x=0; x<n; x++){ //ye variable bss iteration ke liye hai
             if(nums[i] * nums[i] > nums[j] * nums[j]){
                ans[k] = nums[i] * nums[i];
             i++;
