@@ -1,25 +1,17 @@
-class Solution {
+class Solution { //2-pointer optimal
 public:
     void moveZeroes(vector<int>& nums) {
         int n = nums.size();
-// two-pinter approach (optimal approach with T.C= O(N) and S.C = O(1))
-
-        int j = -1; // initially j is -1 and will change to 0, whenever come
-        for(int i=0; i<n; i++){
-            if(nums[i] == 0){
-                j = i;
-                break;
+        int i = 0;
+        for(int j=0;j<n;j++){
+            if(nums[j] != 0){
+                nums[i] = nums[j]; // will start filling non-zeros values at begin
+                i++;
             }
         }
-        if(j==-1) return; //no non-zero numbers  
-
-        for(int i=j+1; i<n; i++){ //now i will start after the element where j got first 0
-            if(nums[i] != 0){
-                swap(nums[i], nums[j]); // i will swap with j for getting non-zero elements at first
-                j++; // j will increasing till n in search of zero
-            }
-    
+        while(i<n){
+            nums[i] = 0; // this will fill zeros at remaining position after non-zeros
+            i++;
         }
-        return; // void fn, just return
-    }
+    } // since fn is void , no neet to return outside
 };
